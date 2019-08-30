@@ -1,5 +1,7 @@
 # Ruby on Rails Tutorial sample application
 
+See deployed app at https://polar-scrubland-30072.herokuapp.com/
+
 This is the sample application for
 [*Ruby on Rails Tutorial:
 Learn Web Development with Rails*](https://www.railstutorial.org/)
